@@ -1,0 +1,12 @@
+openapi: '3.0.2'
+info:
+  title: HOA Website API
+  version: '1.0'
+servers:
+  - url: https://api.antirevalley.org/v1
+paths:
+  /test:
+    get:
+      responses:
+        '200':
+          description: OK

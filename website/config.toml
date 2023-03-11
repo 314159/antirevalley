@@ -1,0 +1,9 @@
+baseURL = 'https://www.nelson.saint-louis.mo.us/antire'
+languageCode = 'en-us'
+theme = 'ananke'
+title = 'Antire Valley Subdivision'
+
+SectionPagesMenu = "main"
+Paginate = 10
+googleAnalytics = ""
+enableRobotsTXT = true
