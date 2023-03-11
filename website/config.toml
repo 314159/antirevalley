@@ -1,4 +1,4 @@
-baseURL = 'https://www.nelson.saint-louis.mo.us/antire'
+baseURL = 'https://www.antirevalley.org/'
 languageCode = 'en-us'
 theme = 'ananke'
 title = 'Antire Valley Subdivision'

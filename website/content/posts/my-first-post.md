@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-03-04T14:39:31-06:00
-draft: true
+draft: false
 author: Scott Nelson
 ---
 
