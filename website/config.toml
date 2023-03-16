@@ -1,9 +1,0 @@
-baseURL = 'https://www.antirevalley.org/'
-languageCode = 'en-us'
-theme = 'ananke'
-title = 'Antire Valley Subdivision'
-
-SectionPagesMenu = "main"
-Paginate = 10
-googleAnalytics = ""
-enableRobotsTXT = true
