@@ -6,8 +6,7 @@
     <description>Recent content on Antire Valley Subdivision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Scott Nelson</copyright>
-    <lastBuildDate>Sat, 04 Mar 2023 14:39:31 -0600</lastBuildDate><atom:link href="https://www.antirevalley.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Scott Nelson</copyright><atom:link href="https://www.antirevalley.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antire Valley Subdivision</title>
       <link>https://www.antirevalley.org/about/</link>
@@ -16,15 +15,6 @@
       <guid>https://www.antirevalley.org/about/</guid>
       <description>The subdivision is a group of 80 homes nestled in the hills between Fenton and Eureka. It gives the peace of the country while still being within fifteen minutes of the St. Louis City limits.
 The homes are not large, making for good starter houses, but most of us like it so much we have stayed far longer. Our alleys, although typically a city feature, make safe places for children to play.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://www.antirevalley.org/posts/my-first-post/</link>
-      <pubDate>Sat, 04 Mar 2023 14:39:31 -0600</pubDate>
-      
-      <guid>https://www.antirevalley.org/posts/my-first-post/</guid>
-      <description>Our new website I am working on creating a new website for the subdivision. My main goals are to have an official place to go for news about the neighorhood.</description>
     </item>
     
   </channel>
