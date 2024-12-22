@@ -10,6 +10,7 @@ As you all can see the well project is coming to an end. It must be said this
 project could not have been accomplished without the hard work of past
 and present trustees, their hard work has saved us a lot of money “thank
 you”. The cost came in around the $313,000 range.
+<!--more-->
 
 ## Subdivision Insurance
 
