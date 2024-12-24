@@ -72,4 +72,3 @@ The trustees should check out liability insurance coverage since it hasn’t bee
 A motion was made and seconded to close the meeting.
 
 Respectfully submitted, Cathy Nelson
-
