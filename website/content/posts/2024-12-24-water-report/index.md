@@ -6,4 +6,6 @@ Date: 2024-12-24T09:47:52-06:00
 
 Important information about your drinking water.
 
+<!--more-->
+
 Please see the [public notice by clicking this link](public-notice-mailed-12-19-24.pdf).
