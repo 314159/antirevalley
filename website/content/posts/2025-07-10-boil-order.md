@@ -4,7 +4,7 @@ date: 2025-07-10T07:05:18-05:00
 ---
 BOIL WATER NOTICE
 
-Residents in Customers in Antire Valley Subdivision
+Residents in Antire Valley Subdivision
 
 Effective July 10, 2025
 
