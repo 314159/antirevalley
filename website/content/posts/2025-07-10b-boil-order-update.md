@@ -11,7 +11,7 @@ Please check antirevalley.org for any updates.
 
 Below is the original boil order message for your convenience.
 
-<!-- more -->
+<!--more-->
 
 Residents in Antire Valley Subdivision
 
