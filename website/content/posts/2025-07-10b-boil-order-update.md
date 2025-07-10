@@ -2,7 +2,7 @@
 title: "Water System Update"
 date: 2025-07-10T15:39:29-05:00
 ---
-Water System Update
+## Water System Update
 
 Although the water pressure has returned to normal, **the boil order is still
 in effect**.  Please boil for three minutes any water that you might ingest.
