@@ -2,17 +2,6 @@
 title: "BOIL WATER NOTICE"
 date: 2025-07-10T07:05:18-05:00
 ---
-We are under a boil order from the Trustees.
-Until further notice we are under a boil order
-
-Any water usage for drinkning or brushing your teeth
-Safe for showering or flushing your toilet
-3 mins
-bottle water from store
-
-
-https://dnr.mo.gov/document-search/boil-water-orders-boil-water-advisories-pub2001/pub2001
-
 BOIL WATER NOTICE
 
 Residents in Customers in Antire Valley Subdivision
